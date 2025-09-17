@@ -1,8 +1,8 @@
 
 import React from "react";
 import { motion } from "framer-motion";
-import Header from "../components/Header";
-import Footer from "../components/Footer";
+import Header from "../Components/Header";
+import Footer from "../Components/Footer";
 
 const cardVariants = {
   hidden: { opacity: 0, y: 80 },
