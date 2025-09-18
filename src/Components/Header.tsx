@@ -21,16 +21,16 @@ function Header() {
           Welcome to Royal Beauty Cream
         </p>
         <div className="flex space-x-3 text-sm md:text-base">
-          <a href="#" className="hover:text-[#7a4e42]">
+          <a href="#" className="hover:text-[#151413]">
             <FaFacebookF />
           </a>
-          <a href="#" className="hover:text-[#7a4e42]">
+          <a href="#" className="hover:text-[#151413]">
             <FaInstagram />
           </a>
-          <a href="#" className="hover:text-[#7a4e42]">
+          <a href="#" className="hover:text-[#151413]">
             <FaLinkedin />
           </a>
-          <a href="#" className="hover:text-[#7a4e42]">
+          <a href="#" className="hover:text-[#151413]">
             <FaTwitter />
           </a>
         </div>

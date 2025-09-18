@@ -98,7 +98,7 @@ export default function Contact() {
             Have Questions?
           </h2>
           <a
-            href="#contact-form"
+            href="/contact"
             className="inline-block bg-[#a36b5c] text-white px-8 py-3 rounded-lg hover:bg-[#8c5449] transition-transform transform hover:scale-110 animate-fadeInUp"
           >
             Get In Touch
